@@ -1,0 +1,35 @@
+body {
+background-color: lightgrey;
+}
+.h1 {
+    font-size: 32px; color:black;
+    text-align: center;
+}
+.h2 {
+    color:blue; 
+    background:lightgray;
+    font-size: 28px;
+}
+
+.h4 {
+    color:blue; background:lightgray;
+    font-size: 22px;
+    font-weight: bold
+}
+div {
+    background-color: gray;
+    border:1px solid blue;
+    text-align: center;
+}
+
+  .footer {
+    background-color: lightgrey;
+    border:25px solid black;
+    text-align: center;
+}
+  
+   /**The total of my 5 html pages are here**/
+  /**The body is where it needs to be!**/
+  /**my h2 is a good size to read **/
+   /**background colors are good on the eyes **/
+    /**this is my 5th comment,hope you like it. **/
